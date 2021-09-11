@@ -1,0 +1,32 @@
+#Winter {
+  background-color: blue;
+  color:white;
+  border: 10px solid white;
+}
+
+#Summer {
+  background-color: yellow;
+  color: orange;
+  border:10px solid orange;
+}
+
+#Error {
+  background-color: rgb(243, 141, 158);
+  color: red;
+  border:10px solid red;
+}
+
+
+
+.Weather {
+  width: 50vw;
+  height: 50vh;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  margin: 5% 22%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
